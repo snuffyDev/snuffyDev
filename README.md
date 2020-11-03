@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Welcome to Snuffy's GitHub Page!
+> A Good Examplle of *You* ***can*** dev, but ***should*** you???
 <!--
 **snuffyDev/snuffyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
