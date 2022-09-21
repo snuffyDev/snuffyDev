@@ -21,15 +21,18 @@ If any of my repos prove either useful or entertaining, glad to hear it!
 ### Currently Using
 
 **Frontend Framework**: Svelte
-**Languages**: TypeScript, SCSS, C#
+
+**Languages**: TypeScript, SCSS, Rust
+
 **Hosting**: Cloudflare Workers, Netlify
 
 ### Learning
 
-**Languages**: Rust & Haxe
+**Languages**: Haxe, C# (relearning)
+
 **Tools**: Godot Game Engine
 
-### Past Tech.
+### Past Tech
 
 *some* C++, *some* Java, *tiny amount of* Assembly.
 
