@@ -3,11 +3,11 @@
 
 <p align="center"><em>Thanks for checking out my profile!</em></p>
 
-I'm a long-time hobbyist developer, currently focusing on the web. I make things just to make things, figure out how something works in depth, whlie trying to also keep it interesting. 
+I'm a long-time hobbyist developer, currently focusing on the web. I love to figure out how things work under-the-hood, and I'm always looking for a challenge.
 
-If any of my repos prove either useful or entertaining, glad to hear it! 
+Thanks for checking out my GitHub!
 
-## Repos to Checkout
+## Repos to explore
 
 > _These are just my personal favorites. Feel free to check out the others!_
 
@@ -15,24 +15,23 @@ If any of my repos prove either useful or entertaining, glad to hear it!
 
 * [Sveltegen](https://github.com/snuffyDev/sveltegen) - A CLI for generating Svelte components, routes, and actions  ![GitHub Repo stars](https://img.shields.io/github/stars/snuffyDev/svelteGen?style=flat-square&logo=github) ![npm](https://img.shields.io/npm/dt/sveltegen?color=red&logo=npm&style=flat-square) 
 
+* [Nanothreads](https://github.com/snuffyDev/nanothreads) - A tiny multi-threading & concurrency library, for Node.js and the browser.
 
-## Tech Overview
+
+## Overview
 
 ### Currently Using
 
 **Frontend Framework**: Svelte
 
-**Languages**: TypeScript, SCSS, Rust
+**Languages**: TypeScript, JavaScript, SCSS, Rust
 
-**Hosting**: Cloudflare Workers, Netlify
+**Hosting**: Cloudflare Workers, Vercel
 
-### Learning
+<br/>
 
-**Languages**: Haxe, C# (relearning)
+<img height="180" width="50%" src="https://github-readme-stats.vercel.app/api?username=snuffyDev&show_icons=true&hide=prs,contribs,issues&theme=nord&include_all_commits=true&count_private=true&disable_animations=true"/>
 
-**Tools**: Godot Game Engine
-
-### Past Tech
-
-*some* C++, *some* Java, *tiny amount of* Assembly.
-
+<div align="left">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snuffydev&layout=compact&theme=nord"/>
+</div>
