@@ -30,7 +30,7 @@ Thanks for checking out my GitHub!
 
 <br/>
 
-<img height="180" width="50%" src="https://github-readme-stats.vercel.app/api?username=snuffyDev&show_icons=true&hide=prs,contribs,issues&theme=nord&include_all_commits=true&count_private=true&disable_animations=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=snuffyDev&show_icons=true&hide=prs,contribs,issues&theme=nord&include_all_commits=true&count_private=true&disable_animations=true"/>
 
 <div align="left">
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snuffydev&layout=compact&theme=nord"/>
