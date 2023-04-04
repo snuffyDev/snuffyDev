@@ -5,7 +5,6 @@
 
 I'm a long-time hobbyist developer, currently focusing on the web. I love to figure out how things work under-the-hood, and I'm always looking for a challenge.
 
-Thanks for checking out my GitHub!
 
 ## Repos to explore
 
@@ -17,6 +16,7 @@ Thanks for checking out my GitHub!
 
 * [Nanothreads](https://github.com/snuffyDev/nanothreads) - A tiny multi-threading & concurrency library, for Node.js and the browser.
 
+* [Wolfensvelte 3D](https://github.com/snuffyDev/Wolfensvelte-3D) - A reimagination of Wolfenstein 3D, rendered entirely in the DOM by Svelte (no canvas!)
 
 ## Overview
 
